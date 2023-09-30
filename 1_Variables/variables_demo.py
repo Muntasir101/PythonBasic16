@@ -3,7 +3,7 @@ Data Types:
 1. Numeric(integer, float)
 2. Sequence(string, list, tuple)
 3. Boolean
-4. Mapping
+4. Mapping(Dictionary)
 5. Set
 """
 number2 = 10
@@ -43,3 +43,6 @@ user_details = {
 # Set
 group1 = {12, 33, 44, 43}
 group2 = {23, 34, 543}
+
+cites = ["dhaka", "ctg", "rajshahi"]
+print(cites)
